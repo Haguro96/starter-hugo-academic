@@ -25,11 +25,11 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Camera
     tag: '*'
   - name: Quantum dots
     tag: Quantum dots
-  - name: Other
+  - name: MyOther
     tag: Demo
 
 design:
