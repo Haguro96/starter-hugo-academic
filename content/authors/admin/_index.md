@@ -6,11 +6,11 @@ title: Cheng Chen
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: chengc9@illinois.edu
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: University of Illinois at Urbana-Champaign, Department of Electrical and Computer Engineering
+#organizations:
+#- name: University of Illinois at Urbana-Champaign, Department of Electrical and Computer Engineering
 
 # Short bio (displayed in user profile at end of posts)
 bio: My reserach interest is the application of quantum dots in display devices
@@ -36,10 +36,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 #social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '/#contact'
-#- icon: twitter
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:chengc9@illinois.edu'
+- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
