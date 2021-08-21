@@ -36,8 +36,8 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - 
+    company: Peking University 
     company_url: ''
     company_logo: org-x
     location: California
