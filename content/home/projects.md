@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Quantum dots
+    tag: Quantum dots
   - name: Other
     tag: Demo
 
