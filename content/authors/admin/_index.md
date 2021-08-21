@@ -69,4 +69,4 @@ highlight_name: false
 
 I am a PhD student at Shuming Nie & Viktor Gruev group in UIUC. Before this, I got my bachelor in Peking University, and my advisor was Kaihui Liu. Besides, I did a summer internship in University of California, Los Angeles through 2017.6 to 2017.9 at Aydogan Ozcan group.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
