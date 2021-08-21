@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Camera
-    tag: '*'
+    tag: Camera
   - name: Quantum dots
     tag: Quantum dots
   - name: MyOther
